@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259136707638",
+    "project_id": "codetimer-762ec",
+    "storage_bucket": "codetimer-762ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259136707638:android:7aeab6fab1d0de7ffc4c97",
+        "android_client_info": {
+          "package_name": "com.example.codetimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259136707638-gjcs8gpqt8ec3o5nadp25ofgjb6298m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJIUInDrrXoKaaNK7GH9FeNZPgYqHo7wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259136707638-gjcs8gpqt8ec3o5nadp25ofgjb6298m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
